@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- Trying to figure out what the heck is wrong with the permissions on this folder 
+- Why would I do this 15 minute task by hand when I could spend 3 hours debugging a script to do it for me
 <!--
 **jontyms/jontyms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
